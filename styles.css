@@ -75,8 +75,13 @@ font-size: 20px;
   }
 
 .icono{
-    width: 450px;
-    height: 30px;
+    width: 100%;
+    height: 100%;
+    background-color: black;
     float: right;
+}
+
+.bd-example {
+    position: relative
 }
 
